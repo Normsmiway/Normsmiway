@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏾, I'm Tajudeen Adenekan</h1>
-<h3 align="center">Engineering Leader • Fintech Founder • Systems Thinker</h3>
+<h3 align="center">Engineering Leader • Fintech Expert • Systems Thinker</h3>
 <h4 align="center">Build smart. Lead strong. Stay grounded. Repeat</h4>
 
 <p align="center">
