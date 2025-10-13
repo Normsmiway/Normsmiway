@@ -65,9 +65,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=normsmiway&show_icons=true&theme=react" alt="GitHub Stats" />
   <br />
+</p>
+<p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Normsmiway&theme=dark&hide_border=true&border_radius=6.0&mode=weekly&exclude_days=Mon%2CTue" alt="GitHub Streak" /></a>
 </p>
-
 ---
 
 ### 📫 Let’s Connect
