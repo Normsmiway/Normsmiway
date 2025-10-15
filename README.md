@@ -70,7 +70,7 @@
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Normsmiway&theme=dark&hide_border=true&border_radius=6.0&mode=weekly&exclude_days=Mon%2CTue" alt="GitHub Streak" /></a>
 </p>
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Normsmiway&theme=dark&hide_border=true&border_radius=6.0&mode=weekly&exclude_days=Mon%2CTue)](https://git.io/streak-stats)
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tajudeen-adenekan-762ba665/)
